@@ -31,6 +31,7 @@
 2025/05/02/speech-translation-with-custom-speech/index.html
 2025/05/20/about-support/index.html
 2026/08/04/AzureOpenAIService-DataStorage/index.html
+2026/09/10/foundry-agent-network-injection-delete-order/index.html
 archives/2020/01/index.html
 archives/2020/03/index.html
 archives/2020/04/index.html
@@ -60,6 +61,7 @@ archives/2025/04/index.html
 archives/2025/05/index.html
 archives/2025/index.html
 archives/2026/08/index.html
+archives/2026/09/index.html
 archives/2026/index.html
 archives/index.html
 archives/page/2/index.html
@@ -122,6 +124,7 @@ tags/Custom-Translator/index.html
 tags/Custom-Vision/index.html
 tags/Excel-ファイル/index.html
 tags/Face-API-Recognition-Identify/index.html
+tags/Foundry-Agent-Service/index.html
 tags/LUIS/index.html
 tags/Microsoft-Foundry/index.html
 tags/QnA-Maker/index.html
@@ -133,6 +136,7 @@ tags/Speech/index.html
 tags/Synthesis/index.html
 tags/Text-to-Speech/index.html
 tags/Translator-Text-API/index.html
+tags/Virtual-Network/index.html
 tags/はじめに/index.html
 tags/管理サービス/index.html
 tags/過去ブログ/index.html
